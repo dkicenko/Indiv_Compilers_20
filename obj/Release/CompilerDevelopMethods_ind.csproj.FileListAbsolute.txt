@@ -1,9 +1,0 @@
-C:\labs\CompilerDevelopMethods_ind-master\CompilerDevelopMethods_ind-master\bin\Release\SimpleLang.exe.config
-C:\labs\CompilerDevelopMethods_ind-master\CompilerDevelopMethods_ind-master\bin\Release\SimpleLang.exe
-C:\labs\CompilerDevelopMethods_ind-master\CompilerDevelopMethods_ind-master\bin\Release\SimpleLang.pdb
-C:\labs\CompilerDevelopMethods_ind-master\CompilerDevelopMethods_ind-master\bin\Release\Microsoft.CSharp.dll
-C:\labs\CompilerDevelopMethods_ind-master\CompilerDevelopMethods_ind-master\bin\Release\ru\Microsoft.CSharp.resources.dll
-C:\labs\CompilerDevelopMethods_ind-master\CompilerDevelopMethods_ind-master\obj\Release\CompilerDevelopMethods_ind.csproj.CoreCompileInputs.cache
-C:\labs\CompilerDevelopMethods_ind-master\CompilerDevelopMethods_ind-master\obj\Release\CompilerDevelopMethods_ind.csproj.CopyComplete
-C:\labs\CompilerDevelopMethods_ind-master\CompilerDevelopMethods_ind-master\obj\Release\SimpleLang.exe
-C:\labs\CompilerDevelopMethods_ind-master\CompilerDevelopMethods_ind-master\obj\Release\SimpleLang.pdb
